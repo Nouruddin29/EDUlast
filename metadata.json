@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة المعلم الذكي",
+  "description": "نظام إدارة المعلم الذكي لإدارة الحصص اليومية، حضور الطلاب، الدرجات، المصروفات الشهرية، وتقارير أولياء الأمور عبر واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
